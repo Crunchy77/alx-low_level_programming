@@ -1,11 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 
- /**
-  * main - main block
-  * Description: sth
-  * Return: 0
-  */
+/**
+ * main - main block
+ * Description: sth
+ * Return: 0
+ */
 
 int main(void)
 {
