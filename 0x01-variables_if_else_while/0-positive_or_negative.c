@@ -2,10 +2,9 @@
 #include <stdio.h>
 #include <time.h>
 
-/**
- * main - main block 
- * Description: Works
- * Return: 0
+/** main - main block 
+ *  Description: Works
+ *  Return: 0
  */
 
 int main(void)
