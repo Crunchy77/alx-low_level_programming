@@ -17,11 +17,11 @@ int main(void)
 		{
 			continue;
 		}
-	
+
 		putchar(x);
 		if (x == 'z')
 		{
-			putchar('\n');		
+			putchar('\n');
 		}
 	}
 
