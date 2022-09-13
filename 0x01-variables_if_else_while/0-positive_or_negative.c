@@ -2,11 +2,14 @@
 #include <stdio.h>
 #include <time.h>
 
-/* header: <time.h> */
-
-/* main - main block */
-/*Description: describes a random number*/
-/* Return: 0*/
+/**
+ * header: <time.h>
+ *  
+ * main - main block 
+ * @n: random number
+ * Description: Works
+ * Return: 0
+ */
 
 int main(void)
 {
