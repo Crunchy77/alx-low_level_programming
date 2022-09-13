@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+
  /**
   * main - main block
   * Description: sth
@@ -10,7 +11,7 @@ int main(void)
 {
 	int x;
 
-	for(x = 'z' ; x >= 'a' ; x--)
+	for (x = 'z' ; x >= 'a' ; x--)
 	{
 		putchar(x);
 		if (x == 'a')
