@@ -3,10 +3,7 @@
 #include <time.h>
 
 /**
- * header: <time.h>
- *  
  * main - main block 
- * @n: random number
  * Description: Works
  * Return: 0
  */
