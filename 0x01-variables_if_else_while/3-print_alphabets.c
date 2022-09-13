@@ -9,12 +9,12 @@
 
 int main(void)
 {
-	int x,y;
+	int x, y;
 
 	for (x = 'a' ; x <= 'z' ; x++)
 	{
 		putchar(x);
-		
+	
 	}
 
 	for (y = 'A' ; y <= 'Z' ; y++)
@@ -26,6 +26,5 @@ int main(void)
 			putchar('\n');
 		}
 	}
-	
 	return (0);
 }
