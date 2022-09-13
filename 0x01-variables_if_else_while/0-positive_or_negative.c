@@ -5,6 +5,7 @@
 /* header: <time.h> */
 
 /* main - main block */
+/*Description: randomly generates a number and determines whether it is zero, positive or negative*/
 /* Return: 0*/
 
 int main(void)
