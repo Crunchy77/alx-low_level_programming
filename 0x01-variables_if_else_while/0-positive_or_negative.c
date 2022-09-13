@@ -5,7 +5,7 @@
 /* header: <time.h> */
 
 /* main - main block */
-/*Description: randomly generates a number and determines whether it is zero, positive or negative*/
+/*Description: describes a random number*/
 /* Return: 0*/
 
 int main(void)
@@ -21,7 +21,7 @@ int main(void)
 	else
 	{
 
-		if(n < 0)
+		if (n < 0)
 		{
 			printf("%d is negative\n", n);
 		}
