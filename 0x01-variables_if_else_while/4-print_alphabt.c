@@ -17,7 +17,7 @@ int main(void)
 		{
 			continue;
 		}
-		
+	
 		putchar(x);
 		if (x == 'z')
 		{
