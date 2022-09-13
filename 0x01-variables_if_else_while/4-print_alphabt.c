@@ -13,14 +13,17 @@ int main(void)
 
 	for (x = 'a' ; x <= 'z' ; x++)
 	{
-		if (x != 113 || x != 101)
+		if (x == 'q' || x == 'e')
 		{
-			putchar(x);
-			if (x == 'z')
-			{
-				putchar('\n');
-			}
+			continue;
+		}
+		
+		putchar(x);
+		if (x == 'z')
+		{
+			putchar('\n');		
 		}
 	}
+
 	return (0);
 }
