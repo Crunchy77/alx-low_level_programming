@@ -11,7 +11,7 @@ int main(void)
 {
 	int x;
 
-	for (x = 'a';x <= 'z'; x++)
+	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
 		if (x == 'z')
@@ -22,5 +22,5 @@ int main(void)
 	}
 
 
-	return 0;
+	return (0);
 }
