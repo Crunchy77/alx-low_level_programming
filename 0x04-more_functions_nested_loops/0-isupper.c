@@ -2,7 +2,7 @@
 
 /**
  * _isupper - checks for upper
- * @c - Value to check
+ * @c : Value to check
  *
  * Description: Work
  * Return: 0 or 1
