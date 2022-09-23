@@ -2,9 +2,9 @@
 
 /**
  * *_strncat - concatenates n bytes of two strings
- * @dest : pointer destination
- * @src : pointer source
- * @n : number of bytes
+ * @dest: pointer destination
+ * @src: pointer source
+ * @n: number of bytes
  * 
  * Description - concatenation
  * Return: char
