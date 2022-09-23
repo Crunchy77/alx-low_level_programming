@@ -15,6 +15,7 @@ char *_strcat(char *dest, char *src)
 	int j;
 
 	length = 0;
+
 	while (dest[length] != '\0')
 	{
 		++length;
@@ -27,6 +28,6 @@ char *_strcat(char *dest, char *src)
 	}
 
 	dest[length] = '\0';
-	
+
 	return (dest);
 }
