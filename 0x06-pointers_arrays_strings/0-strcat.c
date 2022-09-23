@@ -6,7 +6,7 @@
  * @src : pointer source
  *
  * Description - concatenation
- * Return : char
+ * Return: char
  */
 
 char *_strcat(char *dest, char *src)
